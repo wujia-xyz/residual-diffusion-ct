@@ -43,5 +43,9 @@ python test.py \
     --high_freq_model_path /path/to/high_freq_model.pth \
     --timesteps 100
 ```
+## Checkpoints and Assets
 
+Trained model checkpoints and related assets are provided via OneDrive:
+
+https://1drv.ms/f/c/93483cb9d8985636/IgDY5PG1VOOkQJyj6xYh3mggAbJFxQGTeUYdx2jw9DJ8REc?e=FPNtza
 
